@@ -18,3 +18,16 @@ sudo chmod +x run.sh
 ```
 ./run.sh
 ```
+
+# Other steps
+
+You can verify the running docker instances with this
+```
+sudo docker ps
+```
+
+For other commands you can refer the [official docs](https://docs.docker.com/)
+
+# Screenshots
+
+![proof of working](./image.png)
